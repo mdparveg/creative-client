@@ -1,0 +1,15 @@
+.footer_contianer{
+    background: #FBD062;
+}
+.footer_contianer p{
+    color: #000000 70%;
+}
+.footer_text textarea{
+    height: 277px;
+}
+.footer_contianer small{
+    color: #000000 70%;
+}
+footer{
+    text-align: center;
+}

@@ -1,0 +1,7 @@
+.company_image{
+    text-align: center;
+}
+.company_image img{
+    height: 50px;
+    margin: 20px 15px 25px 15px;
+}

@@ -1,0 +1,10 @@
+.carousell{
+    height: 500px;
+    background: #111430;
+    align-items: center;
+}
+.carousell img{
+    width: 465px;
+    height: 335px;
+    margin: 10px;
+}
